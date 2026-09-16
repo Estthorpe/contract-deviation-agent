@@ -1,0 +1,9 @@
+﻿anthropic
+voyageai
+PyMuPDF
+numpy
+python-dotenv
+streamlit
+pytest
+requests
+pydantic

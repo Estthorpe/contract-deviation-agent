@@ -1,0 +1,136 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is made on 1 September 2026
+
+BETWEEN:
+
+(1) NORTHGATE RETAIL GROUP LIMITED, a company incorporated in England and Wales with company number 07654321, whose registered office is at 40 Tower Bridge Road, London SE1 4TR (the "Customer"); and
+
+(2) HELIXWARE TECHNOLOGIES INC., a corporation organised under the laws of the State of Delaware, United States of America, whose principal place of business is at 1200 Market Street, Wilmington, Delaware 19801 (the "Supplier").
+
+BACKGROUND
+
+(A) The Customer wishes to procure managed IT infrastructure, application support and cloud migration services.
+(B) The Supplier has agreed to provide such services on the terms and conditions of this Agreement.
+
+IT IS AGREED AS FOLLOWS:
+
+1. DEFINITIONS AND INTERPRETATION
+
+1.1 In this Agreement the following words and expressions shall have the following meanings: "Acceptance" means confirmation in writing by the Customer that a Deliverable conforms to the Specification; "Applicable Laws" means all laws, statutes, regulations and codes from time to time in force which apply to a party or to the Services; "Business Day" means a day other than a Saturday, Sunday or public holiday in England; "Charges" means the charges payable by the Customer for the Services as set out in a Statement of Work; "Customer Personal Data" means any personal data processed by the Supplier on behalf of the Customer in connection with this Agreement; "Deliverables" means all documents, software, products and materials developed by the Supplier in the course of providing the Services; "Good Industry Practice" means the exercise of that degree of skill, care, diligence, prudence and foresight which would reasonably be expected from a leading supplier of services similar to the Services; "Services" means the services to be provided by the Supplier under this Agreement as described in each Statement of Work; "Specification" means the technical and functional specification for the Services and Deliverables set out in the relevant Statement of Work; "Statement of Work" means a document agreed and signed by both parties describing Services to be performed under this Agreement; "Term" has the meaning given in clause 2.1.
+
+1.2 Clause and schedule headings shall not affect the interpretation of this Agreement. Words in the singular include the plural and vice versa. A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from time to time.
+
+2. TERM
+
+2.1 This Agreement shall commence on the date first written above and shall continue for an initial period of thirty-six (36) months (the "Initial Term") and thereafter shall automatically renew for successive periods of twelve (12) months unless terminated in accordance with clause 12 (together with the Initial Term, the "Term").
+
+2.2 Either party may give not less than six (6) months' written notice to the other, to expire at the end of the Initial Term or any subsequent renewal period, that this Agreement shall not renew.
+
+3. SERVICES
+
+3.1 The Supplier shall provide the Services to the Customer in accordance with each Statement of Work, the Specification and the terms of this Agreement. The Supplier shall perform the Services with all reasonable skill, care and diligence and in accordance with Good Industry Practice.
+
+3.2 The Supplier shall allocate sufficient resources to the Services to enable it to comply with its obligations under this Agreement, and shall ensure that all personnel engaged in the provision of the Services are suitably qualified, skilled and experienced.
+
+3.3 The Supplier shall comply with all reasonable instructions of the Customer relating to the performance of the Services and shall co-operate with the Customer's other suppliers where reasonably required for the effective delivery of the Services.
+
+3.4 Time for performance of the Services shall be of the essence. The Supplier shall meet the milestone dates set out in each Statement of Work and shall notify the Customer promptly if it becomes aware that any milestone date is at risk.
+
+4. CUSTOMER OBLIGATIONS
+
+4.1 The Customer shall provide the Supplier with such access to its premises, systems and data, and such information and assistance, as the Supplier reasonably requires to perform the Services.
+
+4.2 The Customer shall appoint a contract manager who shall have authority to make decisions on behalf of the Customer in relation to the day-to-day operation of this Agreement.
+
+5. CHARGES AND PAYMENT
+
+5.1 In consideration of the provision of the Services, the Customer shall pay the Charges in accordance with this clause 5 and the relevant Statement of Work. The total Charges payable under the initial Statement of Work are £1,450,000 exclusive of VAT (the "Total Contract Value").
+
+5.2 The Supplier shall invoice the Customer monthly in arrears. Each invoice shall be accompanied by such supporting information as the Customer may reasonably require. The Customer shall pay each undisputed invoice within thirty (30) days of receipt.
+
+5.3 If the Customer fails to pay any undisputed amount by the due date, the Supplier may charge interest on the overdue amount at the rate of four per cent (4%) per annum above the Bank of England base rate from time to time, accruing daily from the due date until the date of actual payment.
+
+5.4 All amounts payable under this Agreement are exclusive of value added tax, which shall be payable in addition at the applicable rate.
+
+6. CHANGE CONTROL
+
+6.1 Either party may request a change to the Services or a Statement of Work by submitting a change request in writing. No change shall be effective unless agreed in writing and signed by authorised representatives of both parties.
+
+6.2 The Supplier shall, within ten (10) Business Days of receipt of a change request, provide a written impact assessment describing the effect of the proposed change on the Charges, the timetable and any other term of this Agreement.
+
+7. INTELLECTUAL PROPERTY RIGHTS
+
+7.1 All Intellectual Property Rights in the Deliverables created specifically for the Customer under this Agreement shall vest in the Customer on creation. The Supplier hereby assigns to the Customer, with full title guarantee and free from all third party rights, all such Intellectual Property Rights.
+
+7.2 The Supplier shall retain ownership of its pre-existing materials, tools and methodologies and hereby grants to the Customer a perpetual, irrevocable, royalty-free, non-exclusive licence to use such materials to the extent necessary to receive the full benefit of the Deliverables.
+
+7.3 The Supplier shall indemnify the Customer against all liabilities, costs, expenses, damages and losses suffered or incurred by the Customer arising out of or in connection with any claim that the Deliverables or the Customer's use of them infringes the Intellectual Property Rights of any third party.
+
+8. WARRANTIES
+
+8.1 The Supplier warrants that for a period of twelve (12) months from the date of Acceptance of each Deliverable (the "Warranty Period") the Deliverable shall conform in all material respects to the Specification and shall be free from defects in design, materials and workmanship. If a Deliverable fails to so conform during the Warranty Period, the Supplier shall at its own cost promptly repair, replace or re-perform the Deliverable so that it conforms.
+
+8.2 The Supplier warrants that the Deliverables and the Customer's use of them in accordance with this Agreement shall not infringe the Intellectual Property Rights of any third party, and that the Supplier shall perform the Services in compliance with all Applicable Laws.
+
+8.3 Each party warrants that it has full capacity and authority to enter into and perform this Agreement and that this Agreement is executed by a duly authorised representative.
+
+9. LIMITATION OF LIABILITY
+
+9.1 Notwithstanding any other provision of this Agreement, the total aggregate liability of the Supplier to the Customer in respect of all claims arising under or in connection with this Agreement, whether in contract, tort (including negligence), breach of statutory duty or otherwise, shall not exceed ten thousand pounds sterling (£10,000) regardless of the Total Contract Value. The liability of the Customer to the Supplier under or in connection with this Agreement shall be unlimited.
+
+9.2 Neither party shall be liable to the other, whether in contract, tort (including negligence), breach of statutory duty or otherwise, for any indirect, special or consequential loss, or for any loss of profit, loss of revenue, loss of business or loss of anticipated savings, in each case arising under or in connection with this Agreement.
+
+9.3 Nothing in this Agreement shall limit or exclude the liability of either party for death or personal injury caused by its negligence, for fraud or fraudulent misrepresentation, or for any other liability which cannot lawfully be limited or excluded.
+
+10. DATA PROTECTION
+
+10.1 The parties acknowledge that for the purposes of the Data Protection Legislation the Customer is the controller and the Supplier is the processor of Customer Personal Data. "Data Protection Legislation" means the UK GDPR, the Data Protection Act 2018 and all other Applicable Laws relating to the processing of personal data.
+
+10.2 The Supplier shall process Customer Personal Data only on the documented instructions of the Customer, shall ensure that all personnel authorised to process such data are bound by obligations of confidentiality, and shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk.
+
+10.3 The Supplier shall not transfer Customer Personal Data outside the United Kingdom, or permit any sub-processor to do so, without the prior written consent of the Customer and unless appropriate safeguards are in place in accordance with the Data Protection Legislation.
+
+10.4 The Supplier shall assist the Customer in responding to requests from data subjects, shall make available all information necessary to demonstrate compliance with this clause 10 and allow for audits by the Customer or its appointed auditor, and shall at the Customer's election delete or return all Customer Personal Data on termination of the Services.
+
+11. CONFIDENTIALITY
+
+11.1 Each party undertakes that it shall not at any time during this Agreement, and for a period of five (5) years after termination, disclose to any person any confidential information concerning the business, affairs, customers, clients or suppliers of the other party, except as permitted by clause 11.2.
+
+11.2 Each party may disclose the other party's confidential information to its employees, officers, representatives, subcontractors or advisers who need to know such information for the purposes of carrying out the party's obligations under this Agreement, and as may be required by law, a court of competent jurisdiction or any governmental or regulatory authority.
+
+12. TERMINATION
+
+12.1 Without affecting any other right or remedy available to it, either party may terminate this Agreement with immediate effect by giving written notice to the other party if the other party commits a material breach of any term of this Agreement which breach is irremediable or (if such breach is remediable) fails to remedy that breach within a period of thirty (30) days after being notified in writing to do so.
+
+12.2 Either party may terminate this Agreement with immediate effect by written notice if the other party becomes insolvent, enters into liquidation or administration, or suffers any analogous event in any jurisdiction.
+
+12.3 The Customer may terminate this Agreement or any Statement of Work for convenience on ninety (90) days' written notice to the Supplier, in which case the Customer shall pay the Charges properly due for Services performed up to the date of termination.
+
+12.4 On termination of this Agreement for any reason, the Supplier shall provide such exit assistance as the Customer reasonably requires to enable the orderly transfer of the Services to the Customer or a replacement supplier, for a period of up to six (6) months, at the rates set out in the relevant Statement of Work.
+
+13. FORCE MAJEURE
+
+13.1 Neither party shall be in breach of this Agreement nor liable for delay in performing, or failure to perform, any of its obligations if such delay or failure results from events, circumstances or causes beyond its reasonable control. In such circumstances the affected party shall be entitled to a reasonable extension of the time for performing such obligations.
+
+14. GENERAL
+
+14.1 This Agreement constitutes the entire agreement between the parties and supersedes and extinguishes all previous agreements, promises, assurances, warranties, representations and understandings between them, whether written or oral, relating to its subject matter.
+
+14.2 No variation of this Agreement shall be effective unless it is in writing and signed by the parties or their authorised representatives.
+
+14.3 Neither party shall assign, transfer or subcontract any of its rights or obligations under this Agreement without the prior written consent of the other party, such consent not to be unreasonably withheld.
+
+14.4 Any notice given to a party under or in connection with this Agreement shall be in writing and shall be delivered by hand or by pre-paid first-class post or recorded delivery to its registered office or principal place of business.
+
+15. GOVERNING LAW AND JURISDICTION
+
+15.1 This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of the State of Delaware, United States of America. Each party irrevocably agrees that the state and federal courts located in Wilmington, Delaware shall have exclusive jurisdiction to settle any such dispute or claim.
+
+15.2 Before either party commences proceedings in respect of any dispute arising under this Agreement, the parties shall first refer the dispute to their respective contract managers, who shall meet in good faith to attempt to resolve it within twenty (20) Business Days.
+
+This Agreement has been entered into on the date stated at the beginning of it.
+
+Signed by ........................................ for and on behalf of NORTHGATE RETAIL GROUP LIMITED
+
+Signed by ........................................ for and on behalf of HELIXWARE TECHNOLOGIES INC.

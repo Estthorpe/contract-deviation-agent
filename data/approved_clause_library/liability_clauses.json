@@ -1,0 +1,34 @@
+{
+  "category": "liability",
+  "risk_tier_on_deviation": "Critical",
+  "description": "Limitation and exclusion of liability. Approved position: the Supplier's aggregate liability is capped at the total charges paid or payable under the agreement, with standard carve-outs for death, personal injury, fraud and wilful default. Uncapped liability in either direction is not approved.",
+  "approved_clauses": [
+    {
+      "clause_id": "LIA-01",
+      "title": "Aggregate liability cap at contract value",
+      "text": "Subject to clause LIA-03, the total aggregate liability of the Supplier to the Customer in respect of all claims arising under or in connection with this Agreement, whether in contract, tort (including negligence), breach of statutory duty or otherwise, shall not exceed an amount equal to the total Charges paid or payable by the Customer under this Agreement in the twelve (12) months immediately preceding the event giving rise to the claim."
+    },
+    {
+      "clause_id": "LIA-02",
+      "title": "Liability capped at total contract value (alternative wording)",
+      "text": "The Supplier's entire liability to the Customer arising out of or in relation to this Agreement, howsoever arising, shall in no circumstances exceed in aggregate the Total Contract Value. The Customer acknowledges that the Charges have been calculated on the basis of this limitation and that the Supplier would not have entered into this Agreement without it."
+    },
+    {
+      "clause_id": "LIA-03",
+      "title": "Carve-outs from the liability cap",
+      "text": "Nothing in this Agreement shall limit or exclude the liability of either party for death or personal injury caused by its negligence, for fraud or fraudulent misrepresentation, for wilful default or abandonment, or for any other liability which cannot lawfully be limited or excluded. The limitations in this clause shall not apply to the Supplier's indemnities in respect of breach of data protection obligations."
+    },
+    {
+      "clause_id": "LIA-04",
+      "title": "Exclusion of indirect and consequential loss",
+      "text": "Neither party shall be liable to the other, whether in contract, tort (including negligence), breach of statutory duty or otherwise, for any indirect, special or consequential loss, or for any loss of profit, loss of revenue, loss of business or loss of anticipated savings, in each case arising under or in connection with this Agreement, provided that this exclusion shall not apply to the liabilities described in clause LIA-03."
+    }
+  ],
+  "prohibited_patterns": [
+    "unlimited liability",
+    "liability shall be unlimited",
+    "without limit as to amount",
+    "no cap on liability",
+    "liability of the Customer shall be unlimited"
+  ]
+}

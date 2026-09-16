@@ -1,0 +1,28 @@
+{
+  "category": "warranty",
+  "risk_tier_on_deviation": "High",
+  "description": "Supplier warranties as to the Services and Deliverables. Approved position: a warranty period of not less than twenty-four (24) months from acceptance, with remediation at the Supplier's cost, together with warranties of skill and care, conformance to specification, non-infringement and compliance with law.",
+  "approved_clauses": [
+    {
+      "clause_id": "WAR-01",
+      "title": "Twenty-four month warranty period with remediation",
+      "text": "The Supplier warrants that for a period of twenty-four (24) months from the date of Acceptance of each Deliverable (the Warranty Period) the Deliverable shall conform in all material respects to the Specification and shall be free from defects in design, materials and workmanship. If a Deliverable fails to so conform during the Warranty Period, the Supplier shall at its own cost promptly repair, replace or re-perform the Deliverable so that it conforms."
+    },
+    {
+      "clause_id": "WAR-02",
+      "title": "Warranty of skill, care and conformance (alternative wording)",
+      "text": "The Supplier warrants and undertakes that the Services shall be performed with all reasonable skill, care and diligence in accordance with Good Industry Practice, that the Deliverables shall conform to the Specification for not less than two (2) years following Acceptance, and that any non-conformance notified by the Customer within that period shall be remedied by the Supplier without additional charge."
+    },
+    {
+      "clause_id": "WAR-03",
+      "title": "Non-infringement and compliance with law",
+      "text": "The Supplier warrants that the Deliverables and the Customer's use of them in accordance with this Agreement shall not infringe the Intellectual Property Rights of any third party, and that the Supplier shall perform the Services in compliance with all Applicable Laws, regulations and codes of practice in force from time to time."
+    }
+  ],
+  "prohibited_patterns": [
+    "provided as is",
+    "without warranty of any kind",
+    "disclaims all warranties",
+    "no warranty is given"
+  ]
+}

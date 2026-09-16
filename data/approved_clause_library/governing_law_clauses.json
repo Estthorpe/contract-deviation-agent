@@ -1,0 +1,28 @@
+{
+  "category": "governing_law",
+  "risk_tier_on_deviation": "Medium",
+  "description": "Governing law, jurisdiction and dispute resolution. Approved position: the Agreement is governed by the laws of England and Wales, the courts of England and Wales have exclusive jurisdiction, and disputes are escalated through good-faith negotiation before proceedings are issued.",
+  "approved_clauses": [
+    {
+      "clause_id": "GL-01",
+      "title": "English law and exclusive jurisdiction",
+      "text": "This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the law of England and Wales. Each party irrevocably agrees that the courts of England and Wales shall have exclusive jurisdiction to settle any such dispute or claim."
+    },
+    {
+      "clause_id": "GL-02",
+      "title": "Governing law (alternative wording)",
+      "text": "The validity, construction and performance of this Agreement shall be governed by English law, and the parties submit to the exclusive jurisdiction of the English courts in respect of any matter arising under or in relation to this Agreement, without prejudice to either party's right to seek injunctive or other interim relief in any court of competent jurisdiction."
+    },
+    {
+      "clause_id": "GL-03",
+      "title": "Dispute escalation before proceedings",
+      "text": "Before either party commences proceedings in respect of any dispute arising under this Agreement, the parties shall first refer the dispute to their respective contract managers, and if not resolved within ten (10) Business Days, to their respective senior executives, who shall meet in good faith to attempt to resolve it within a further twenty (20) Business Days. Nothing in this clause prevents a party from seeking urgent interim relief."
+    }
+  ],
+  "prohibited_patterns": [
+    "governed by the laws of the State of",
+    "governed by the laws of the Supplier's jurisdiction",
+    "courts of the Supplier's place of incorporation",
+    "binding arbitration in the United States"
+  ]
+}

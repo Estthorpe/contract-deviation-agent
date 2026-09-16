@@ -1,0 +1,33 @@
+{
+  "category": "data_protection",
+  "risk_tier_on_deviation": "High",
+  "description": "Processing of personal data by the Supplier as processor on behalf of the Customer as controller. Approved position: UK GDPR-compliant processor obligations, personal data breach notification to the Customer without undue delay and in any event within 72 hours, and a prohibition on international transfers without prior written consent.",
+  "approved_clauses": [
+    {
+      "clause_id": "DP-01",
+      "title": "Breach notification within 72 hours",
+      "text": "The Supplier shall notify the Customer without undue delay, and in any event within seventy-two (72) hours, after becoming aware of a Personal Data Breach affecting Customer Personal Data. Such notification shall describe the nature of the breach, the categories and approximate number of data subjects and records concerned, the likely consequences, and the measures taken or proposed to address the breach and mitigate its effects."
+    },
+    {
+      "clause_id": "DP-02",
+      "title": "Processor obligations",
+      "text": "The Supplier shall process Customer Personal Data only on the documented instructions of the Customer, shall ensure that all personnel authorised to process such data are bound by obligations of confidentiality, and shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, in accordance with Article 32 of the UK GDPR."
+    },
+    {
+      "clause_id": "DP-03",
+      "title": "International transfers",
+      "text": "The Supplier shall not transfer Customer Personal Data outside the United Kingdom, or permit any sub-processor to do so, without the prior written consent of the Customer and unless appropriate safeguards are in place in accordance with Chapter V of the UK GDPR, including the International Data Transfer Agreement or an approved addendum to the EU Standard Contractual Clauses."
+    },
+    {
+      "clause_id": "DP-04",
+      "title": "Assistance, audit and deletion",
+      "text": "The Supplier shall assist the Customer in responding to requests from data subjects and in meeting its obligations in respect of security, breach notification, impact assessments and consultation with the Information Commissioner, shall make available all information necessary to demonstrate compliance and allow for audits by the Customer or its appointed auditor, and shall at the Customer's election delete or return all Customer Personal Data on termination of the Services."
+    }
+  ],
+  "prohibited_patterns": [
+    "no obligation to notify",
+    "shall not be required to notify the Customer of any security incident",
+    "may transfer personal data to any jurisdiction",
+    "Customer waives its right to audit"
+  ]
+}

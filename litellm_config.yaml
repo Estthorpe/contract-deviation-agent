@@ -1,0 +1,18 @@
+# LiteLLM gateway configuration - shared by all 10 portfolio projects.
+# Deployed to Render. Contains no secrets: values marked os.environ/ are
+# read from Render's environment variables at runtime.
+
+model_list:
+  # Allow-list: only the models named here can be called through the gateway.
+  - model_name: claude-haiku-4-5
+    litellm_params:
+      model: anthropic/claude-haiku-4-5
+      api_key: os.environ/ANTHROPIC_API_KEY
+  - model_name: claude-sonnet-4-6
+    litellm_params:
+      model: anthropic/claude-sonnet-4-6
+      api_key: os.environ/ANTHROPIC_API_KEY
+
+general_settings:
+  # Every request must present this key; requests without it are rejected.
+  master_key: os.environ/LITELLM_MASTER_KEY
